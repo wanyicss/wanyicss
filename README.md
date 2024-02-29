@@ -18,7 +18,9 @@
 - 🔭 I’m currently working on Data Visualization
 - 🌱 I’m currently learning AI, RUST, Electron
 - 💬 Ask me about React, Webpack, Less, GIS
-- 📫 How to reach me: [Email]([chensensen315@gmail.com](mailto:chensensen315@gmail.com))
+- 📫 How to reach me:
+    - mail: chensensen315@gmail.com / 15968807150@163.com
+    - phone: 15968807150
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />

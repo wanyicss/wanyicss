@@ -3,13 +3,13 @@
 ❤️ I prefer React on frontend and Node.js with MySQL on backend 
 🤔 I'm currently working on Data Visualization
 
-✨ I study: React, Webpack, Threejs, Chart, Less, Nodejs, GIS
+✨ I study: React, Webpack, Threejs, Chart, Less, Nodejs, GIS, Electron
 
 ### My stack
 - 7+ years of experience in React, Webpack, Chart
 - 3+ years of experience in Data Visualization
 - 1+ years of experience in Threejs, Node.js 
-- HTML/CSS, Javascript
+- Electron
 - LocalStorage, SessionStorage, Webworker, IndexDB, GIS
 - git, docker, CI/CD
 - MySQL, Redis
